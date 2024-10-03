@@ -1,4 +1,4 @@
-# Google-Playstore-Dataset-Project
+# Google-Playstore-Dataset
 **Predictive Modeling:**
 1. Analyzed the googleplaystore.csv dataset to extract insights on app performance across various categories, focusing on download trends and user ratings. Conducted data cleaning and visualization to ensure accurate analysis and effective communication of findings. Developed reports to inform data-driven decision-making for app development and marketing strategies. Enhanced understanding of market dynamics and user engagement metrics within the mobile app landscape.
 
